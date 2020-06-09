@@ -1,0 +1,22 @@
+/* App */
+
+.sortVisualizer{
+    position: absolute;
+    top: auto;
+    left: 5%;
+}
+
+.sortVisualizer button {
+    position: relative;
+    left: 45%;
+}
+
+/* ArrayBar */
+
+.arrayBar {
+    margin-top: 20px;
+    width: 2px;
+    background-color: brown;
+    display: inline-block;
+    margin: 0 1px;
+}
